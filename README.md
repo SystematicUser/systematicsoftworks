@@ -1,2 +1,2 @@
 # SystematicSoftworks
-Buidling Frontend application with latest programing languages
+Buiding Frontend application with latest programing languages
